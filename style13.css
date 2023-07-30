@@ -14,13 +14,6 @@ body {
     /* Custom CSS for row class */
     
     /* Custom CSS for col-md-6 class */
-    .col-md-6 {
-      display: flex;
-      width: 300px;
-      border: 6px solid #ccc; /* Add border around the column */
-      padding: 15px; /* Custom padding */
-      height: auto;
-    }
 
     /* Custom CSS for form-group class */
     /* Custom CSS for custom-input-box class */
