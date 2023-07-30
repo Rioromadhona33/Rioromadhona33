@@ -17,7 +17,7 @@ body {
     .col-md-6 {
       display: flex;
       width: 240px;
-      border: 1px solid #ccc; /* Add border around the column */
+      border: 6px solid #ccc; /* Add border around the column */
       padding: 15px; /* Custom padding */
       height: auto;
     }
